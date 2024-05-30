@@ -166,8 +166,6 @@ Las contribuciones son bienvenidas. Para contribuir, sigue estos pasos:
 4. Empuja tu rama (`git push origin feature/nueva-funcion`).
 5. Abre un Pull Request en este repositorio.
 
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ## Contacto
 Para cualquier duda o consulta, puedes contactarnos a través de:
